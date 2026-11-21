@@ -3,8 +3,8 @@ cask "pdb-print" do
   version "0.3.1"
 
   on_macos do
-    sha256 "d581160f44e8a43fa4af1b14fb1d0989a19fa93ad2ecb24b8338a495daa166f9"
-    url "https://github.com/francisrath/partdb-print-agent/releases/download/v#{version}/pdb-print_#{version}_darwin_universal.tar.gz"
+    sha256 "cc048ecc4bc6467d2d6015d2d741856b4993855893ad802aa0f27037430877df"
+    url "https://github.com/francisrath/pdb-print/releases/download/v#{version}/pdb-print_#{version}_darwin_universal.tar.gz"
   end
 
   name "pdb-print"
